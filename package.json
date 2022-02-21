@@ -1,0 +1,22 @@
+{
+  "name": "assignment0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7imy/Assignment0.git"
+  },
+  "author": "Anas Ahmad Alhasani 441001648",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7imy/Assignment0/issues"
+  },
+  "homepage": "https://github.com/7imy/Assignment0#readme",
+  "dependencies": {
+    "pegjs": "^0.10.0"
+  }
+}
